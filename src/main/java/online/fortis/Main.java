@@ -22,7 +22,7 @@ public class Main {
         // квартира
         Apartment hata = new Apartment();
         hata.footage = 51.8D;
-        hata.age = 30;
+        hata.age = 42;
         hata.floor = 6;
         hata.district = "в Московском районе.";
 
